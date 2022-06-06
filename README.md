@@ -24,7 +24,7 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 <p align="center">
-<a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg)" alt="csharp" width="40" height="40"/> </a>
+<a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40"/> </a>
  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"> <img src="https://www.nuget.org/profiles/aspnet/avatar?imageSize=512" alt="aspnet" width="40" height="40"/> </a>
 </p>
 <p align=center>
