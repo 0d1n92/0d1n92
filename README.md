@@ -15,6 +15,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href=""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+ <a href="https://https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
@@ -22,8 +23,10 @@
 <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
-
-
+<p align="center">
+<a href="https://docs.microsoft.com/it-it/dotnet/csharp/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg)" alt="csharp" width="40" height="40"/> </a>
+ <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"> <img src="https://www.nuget.org/profiles/aspnet/avatar?imageSize=512" alt="aspnet" width="40" height="40"/> </a>
+</p>
 <p align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0d1n92&layout=compact&theme=darcula" />
