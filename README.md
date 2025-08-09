@@ -13,6 +13,17 @@
 
 ---
 
+### 🧠 Developer Philosophy
+
+> _“Code is not just instructions for machines — it’s communication with other developers.”_
+
+- 🧩 **Architecture First**: I believe that good software starts with good structure. I aim for modular, decoupled systems that are easy to test, extend, and refactor.
+- 🧼 **Clean Code**: I follow principles like SOLID, DRY, and KISS to keep my code readable and maintainable. Naming is a design decision.
+- 🤖 **AI as a Partner**: I integrate AI tools to accelerate development, improve documentation, and explore new ideas — not to replace thinking, but to enhance it.
+- 🔄 **Continuous Learning**: I treat every project as a learning opportunity. Whether it’s a new framework, a performance bottleneck, or a team dynamic — I’m always evolving.
+
+---
+
 ### 🛠️ Tech Stack
 
 #### Frontend
