@@ -6,7 +6,7 @@
 ### 🚀 About Me
 
 - 💡 I believe in writing less code, but better code.
-- 🧱 I design scalable, maintainable, and context-aware solutions using architectural patterns like Strategy and Factory.
+- 🧱 I design scalable, maintainable, and context-aware solutions using architectural patterns.
 - 🤖 I use AI tools to enhance my workflow — from documentation to ideation and technical writing.
 - 👥 I love working in teams, mentoring others, and building software that solves real problems.
 - 🎯 Currently focused on improving my skills in complex system design and backend architecture.
